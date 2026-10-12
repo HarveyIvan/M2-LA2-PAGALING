@@ -41,6 +41,6 @@ Browser tests passed for 600 seconds of simulated rain: all 6,000 particles rema
 
 ## References and attribution
 
-Assignment starter: [JoshelCabig/threejs-particle-practice](https://github.com/JoshelCabig/threejs-particle-practice), inspected at commit `fda0e550d68dc2814ecf695c8649b48f6cdf8cd4`. This submission reimplements the lesson with modern Three.js modules and particle recycling.
+Assignment starter: [JoshelCabig/threejs-particle-practice](https://github.com/JoshelCabig/threejs-particle-practice), inspected at source tree `fda0e550d68dc2814ecf695c8649b48f6cdf8cd4`. This submission reimplements the lesson with modern Three.js modules and particle recycling.
 
 Three.js: [mrdoob/three.js](https://github.com/mrdoob/three.js). MIT license included in `vendor/three/LICENSE`. Helvetiker font supplied by the Three.js examples; MAGENTA font license included in `assets/fonts/LICENSE.txt` and its original metadata. Wood and particle sprite textures are generated locally.
